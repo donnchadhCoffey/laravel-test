@@ -21,6 +21,15 @@ php artisan migrate
 ```
 php artisan serve
 ```
+# Other Processes and Information
+
+- On PHP 7.1.0 ++.
+- For Auth generation as part of brief `php artisan make:auth` command was used.
+- `php artisan migrate` to run table structures for the users/admin and the seeder php.
+- Companies and Employees controllers and models were created (relationships)
+- Views for both Company and Employees were generated.
+- Pagination used but seems to works on it's on accord (*need revision)
+- Registration removed as per brief (details changed in web.app)
 
 # Laravel out of the box credits
 - Laravel PHP Framework - https://laravel.com/docs/5.3/installation
