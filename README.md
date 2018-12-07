@@ -30,6 +30,7 @@ php artisan serve
 - Views for both Company and Employees were generated.
 - Pagination used but seems to works on it's on accord (*need revision)
 - Registration removed as per brief (details changed in web.app)
+- Tried to implement faker, not generating
 
 # Laravel out of the box credits
 - Laravel PHP Framework - https://laravel.com/docs/5.3/installation
